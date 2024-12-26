@@ -1,0 +1,23 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="ParallelExecutionSuite" parallel="none" thread-count="2">
+    <!-- Test 1 -->
+    <test name="AllScriptTest">
+        <classes>
+            <class name="testcases.AllScript"/>
+        </classes>
+    </test>
+
+    <!-- Test 2 -->
+    <test name="EditTest">
+        <classes>
+            <class name="testcases.Edit"/>
+        </classes>
+    </test>
+    
+    <!-- Test 3: NewChat -->
+    <test name="NewChatTest">
+        <classes>
+            <class name="testcases.NewChat"/>
+        </classes>
+    </test>
+</suite>

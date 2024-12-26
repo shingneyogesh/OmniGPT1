@@ -1,0 +1,44 @@
+Screenshot captured: D:\Eclipse_Project\OmiGPT\screenshots\Step1_PromptField.png
+Step 1: Prompt entered successfully.
+Step 2: Enter button clicked.
+Screenshot captured: D:\Eclipse_Project\OmiGPT\screenshots\Step2_EnterButtonClicked.png
+Step 3: Response container appeared.
+Step 4: Copy button clicked.
+Screenshot captured: D:\Eclipse_Project\OmiGPT\screenshots\Step4_CopyButton.png
+Screenshot captured: D:\Eclipse_Project\OmiGPT\screenshots\Step1_PromptField.png
+Step 1: Prompt entered successfully.
+Step 2: Enter button clicked.
+Screenshot captured: D:\Eclipse_Project\OmiGPT\screenshots\Step2_EnterButtonClicked.png
+Step 3: Response container appeared.
+Step 4: Copy button clicked.
+Screenshot captured: D:\Eclipse_Project\OmiGPT\screenshots\Step4_CopyButton.png
+Screenshot captured: D:\Eclipse_Project\OmiGPT\screenshots\Step1_PromptField.png
+Step 1: Prompt entered successfully.
+Step 2: Enter button clicked.
+Screenshot captured: D:\Eclipse_Project\OmiGPT\screenshots\Step2_EnterButtonClicked.png
+Step 3: Response container appeared.
+Step 4: Copy button clicked.
+Screenshot captured: D:\Eclipse_Project\OmiGPT\screenshots\Step4_CopyButton.png
+Step 5: Read Aloud button clicked.
+Screenshot captured: D:\Eclipse_Project\OmiGPT\screenshots\Step5_ReadAloudButton.png
+Step 5.1: Read Aloud stopped successfully.
+Screenshot captured: D:\Eclipse_Project\OmiGPT\screenshots\Step5.1_StopReadAloud.png
+Step 6: Regenerate new prompt button clicked.
+Screenshot captured: D:\Eclipse_Project\OmiGPT\screenshots\Step6_RegeneratePrompt.png
+Step 7: New prompt 'Population' submitted successfully.
+Screenshot captured: D:\Eclipse_Project\OmiGPT\screenshots\Step7_NewPrompt.png
+Screenshot captured: D:\Eclipse_Project\OmiGPT\screenshots\Step1_PromptField.png
+Step 1: Prompt entered successfully.
+Step 2: Enter button clicked.
+Screenshot captured: D:\Eclipse_Project\OmiGPT\screenshots\Step2_EnterButtonClicked.png
+Step 3: Response container appeared.
+Step 4: Copy button clicked.
+Screenshot captured: D:\Eclipse_Project\OmiGPT\screenshots\Step4_CopyButton.png
+Step 5: Read Aloud button clicked.
+Screenshot captured: D:\Eclipse_Project\OmiGPT\screenshots\Step5_ReadAloudButton.png
+Step 5.1: Read Aloud stopped successfully.
+Screenshot captured: D:\Eclipse_Project\OmiGPT\screenshots\Step5.1_StopReadAloud.png
+Step 6: Regenerate new prompt button clicked.
+Screenshot captured: D:\Eclipse_Project\OmiGPT\screenshots\Step6_RegeneratePrompt.png
+Step 7: New prompt 'Population' submitted successfully.
+Screenshot captured: D:\Eclipse_Project\OmiGPT\screenshots\Step7_NewPrompt.png

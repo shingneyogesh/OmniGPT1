@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-12-23T16:52:53 IST" name="ParallelExecutionSuite" finished-at="2024-12-23T16:58:28 IST" duration-ms="334377">
+    <groups>
+    </groups>
+    <test started-at="2024-12-23T16:52:53 IST" name="AllScriptTest" finished-at="2024-12-23T16:55:27 IST" duration-ms="153733">
+      <class name="testcases.AllScript">
+        <test-method signature="executeAllTests()[pri:0, instance:testcases.AllScript@3a3e4aff]" started-at="2024-12-23T16:52:53 IST" name="executeAllTests" finished-at="2024-12-23T16:55:27 IST" duration-ms="153622" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- executeAllTests -->
+      </class> <!-- testcases.AllScript -->
+    </test> <!-- AllScriptTest -->
+    <test started-at="2024-12-23T16:55:27 IST" name="EditTest" finished-at="2024-12-23T16:57:05 IST" duration-ms="97874">
+      <class name="testcases.Edit">
+        <test-method signature="editPromptTest()[pri:0, instance:testcases.Edit@6cfcd46d]" started-at="2024-12-23T16:55:27 IST" name="editPromptTest" finished-at="2024-12-23T16:57:05 IST" duration-ms="97867" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- editPromptTest -->
+      </class> <!-- testcases.Edit -->
+    </test> <!-- EditTest -->
+    <test started-at="2024-12-23T16:57:05 IST" name="NewChatTest" finished-at="2024-12-23T16:58:28 IST" duration-ms="82697">
+      <class name="testcases.NewChat">
+        <test-method is-config="true" signature="setup()[pri:0, instance:testcases.NewChat@565b064f]" started-at="2024-12-23T16:52:39 IST" name="setup" finished-at="2024-12-23T16:52:53 IST" duration-ms="14592" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="executeEditPromptWorkflow()[pri:0, instance:testcases.NewChat@565b064f]" started-at="2024-12-23T16:57:05 IST" name="executeEditPromptWorkflow" finished-at="2024-12-23T16:58:28 IST" duration-ms="82688" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- executeEditPromptWorkflow -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:testcases.NewChat@565b064f]" started-at="2024-12-23T16:58:28 IST" name="teardown" finished-at="2024-12-23T16:58:34 IST" duration-ms="6608" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- testcases.NewChat -->
+    </test> <!-- NewChatTest -->
+  </suite> <!-- ParallelExecutionSuite -->
+</testng-results>
